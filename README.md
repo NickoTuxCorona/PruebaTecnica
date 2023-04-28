@@ -1,6 +1,9 @@
 # PruebaTecnica
 Hola a todos espero sea de su agrado.
 
+Preparé dos propuestas, una normal, donde les presento el proceso a través de un cuaderno de Colaboratory de Google y otra dónde no se usan numeros en el proceso
+https://colab.research.google.com/drive/1hSXzyb2xCmGGdrbtdWATfBGBwN4vPfjL?usp=sharing
+
 ### Enunciado:
 
 Para este ejercicio es necesario construir un conjunto funciones que ejecuten operaciones aritméticas básicas.
@@ -39,7 +42,7 @@ def divided_by():    #your code here
 
 # Validar con los siguientes ejemplos
 
-# four(times(five())) # imprime 20
-# one(plus(eight())) # imprime 9
-# seven(minus(three())) # imprime 4
-# nine(divided_by(three())) # imprime 3
+## four(times(five())) # imprime 20
+## one(plus(eight())) # imprime 9
+## seven(minus(three())) # imprime 4
+## nine(divided_by(three())) # imprime 3
