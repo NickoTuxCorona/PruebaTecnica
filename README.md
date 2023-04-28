@@ -1,7 +1,7 @@
 # PruebaTecnica
 Hola a todos espero sea de su agrado.
 
-Preparé dos propuestas, una normal, donde les presento el proceso a través de un cuaderno de Colaboratory de Google y otra dónde no se usan numeros en el proceso
+Preparé dos propuestas, una normal, donde les presento el proceso a través de un cuaderno de Colaboratory de Google y otra dónde no se usan numeros enteros decimales en el proceso
 https://colab.research.google.com/drive/1hSXzyb2xCmGGdrbtdWATfBGBwN4vPfjL?usp=sharing
 
 ### Enunciado:
